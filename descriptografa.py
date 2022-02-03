@@ -1,4 +1,4 @@
-base = input("Digite a palavra que deseja Criptografar: ")
+base = input("Digite a o que deseja Descriptografar: ")
 
 password = ""
 
